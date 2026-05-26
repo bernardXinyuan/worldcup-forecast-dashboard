@@ -107,7 +107,7 @@ function usePredictions() {
   const [state, setState] = useState({ loading: true, data: null, error: null });
 
   useEffect(() => {
-    fetch("/data/predictions.json")
+    fetch(`${import.meta.env.BASE_URL}data/predictions.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`数据加载失败：${res.status}`);
         return res.json();
