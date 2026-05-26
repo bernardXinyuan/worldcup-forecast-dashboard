@@ -2,7 +2,7 @@
   "model": {
     "name": "Explainable Elo + Form Regression v0.1",
     "trainedOn": "International results CSV, 1872-present; features weighted on post-2021 form and full-history Elo.",
-    "updateTime": "2026-05-26T13:56:04.322Z",
+    "updateTime": "2026-05-26T14:01:24.353Z",
     "sources": [
       {
         "name": "openfootball/worldcup.json 2026 fixtures",
@@ -7382,34 +7382,34 @@
         {
           "team": "Mexico",
           "teamZh": "墨西哥",
-          "first": 0.479,
-          "second": 0.276,
-          "advance": 0.754,
-          "expectedPoints": 5.2
+          "first": 0.463,
+          "second": 0.304,
+          "advance": 0.767,
+          "expectedPoints": 5.25
         },
         {
           "team": "South Korea",
           "teamZh": "韩国",
-          "first": 0.33,
-          "second": 0.347,
-          "advance": 0.677,
-          "expectedPoints": 5.19
+          "first": 0.35,
+          "second": 0.353,
+          "advance": 0.703,
+          "expectedPoints": 5.25
         },
         {
           "team": "Czech Republic",
           "teamZh": "捷克",
-          "first": 0.132,
-          "second": 0.231,
-          "advance": 0.363,
-          "expectedPoints": 3.75
+          "first": 0.126,
+          "second": 0.236,
+          "advance": 0.362,
+          "expectedPoints": 3.73
         },
         {
           "team": "South Africa",
           "teamZh": "南非",
-          "first": 0.059,
-          "second": 0.147,
-          "advance": 0.206,
-          "expectedPoints": 2.45
+          "first": 0.061,
+          "second": 0.107,
+          "advance": 0.168,
+          "expectedPoints": 2.35
         }
       ]
     },
@@ -7427,34 +7427,34 @@
         {
           "team": "Canada",
           "teamZh": "加拿大",
-          "first": 0.558,
-          "second": 0.368,
-          "advance": 0.926,
-          "expectedPoints": 6.36
+          "first": 0.59,
+          "second": 0.329,
+          "advance": 0.919,
+          "expectedPoints": 6.5
         },
         {
           "team": "Switzerland",
           "teamZh": "瑞士",
-          "first": 0.418,
-          "second": 0.484,
-          "advance": 0.902,
+          "first": 0.384,
+          "second": 0.532,
+          "advance": 0.916,
           "expectedPoints": 6.36
         },
         {
           "team": "Qatar",
           "teamZh": "卡塔尔",
-          "first": 0.019,
-          "second": 0.106,
-          "advance": 0.125,
-          "expectedPoints": 2.65
+          "first": 0.018,
+          "second": 0.093,
+          "advance": 0.111,
+          "expectedPoints": 2.51
         },
         {
           "team": "Bosnia & Herzegovina",
           "teamZh": "波黑",
-          "first": 0.005,
-          "second": 0.042,
-          "advance": 0.047,
-          "expectedPoints": 1.49
+          "first": 0.007,
+          "second": 0.046,
+          "advance": 0.053,
+          "expectedPoints": 1.51
         }
       ]
     },
@@ -7472,34 +7472,34 @@
         {
           "team": "Morocco",
           "teamZh": "摩洛哥",
-          "first": 0.512,
-          "second": 0.358,
-          "advance": 0.871,
-          "expectedPoints": 6.29
+          "first": 0.507,
+          "second": 0.352,
+          "advance": 0.859,
+          "expectedPoints": 6.35
         },
         {
           "team": "Brazil",
           "teamZh": "巴西",
-          "first": 0.401,
-          "second": 0.372,
-          "advance": 0.773,
-          "expectedPoints": 5.36
+          "first": 0.402,
+          "second": 0.382,
+          "advance": 0.784,
+          "expectedPoints": 5.43
         },
         {
           "team": "Scotland",
           "teamZh": "苏格兰",
           "first": 0.048,
-          "second": 0.154,
-          "advance": 0.202,
-          "expectedPoints": 2.92
+          "second": 0.136,
+          "advance": 0.183,
+          "expectedPoints": 2.78
         },
         {
           "team": "Haiti",
           "teamZh": "海地",
-          "first": 0.039,
-          "second": 0.115,
-          "advance": 0.154,
-          "expectedPoints": 2.17
+          "first": 0.043,
+          "second": 0.13,
+          "advance": 0.173,
+          "expectedPoints": 2.21
         }
       ]
     },
@@ -7517,33 +7517,33 @@
         {
           "team": "Australia",
           "teamZh": "澳大利亚",
-          "first": 0.307,
-          "second": 0.281,
-          "advance": 0.588,
-          "expectedPoints": 4.63
-        },
-        {
-          "team": "United States",
-          "teamZh": "美国",
-          "first": 0.297,
-          "second": 0.28,
-          "advance": 0.577,
-          "expectedPoints": 4.15
+          "first": 0.324,
+          "second": 0.275,
+          "advance": 0.599,
+          "expectedPoints": 4.75
         },
         {
           "team": "Turkey",
           "teamZh": "土耳其",
-          "first": 0.296,
-          "second": 0.269,
+          "first": 0.284,
+          "second": 0.279,
           "advance": 0.564,
-          "expectedPoints": 4.97
+          "expectedPoints": 4.92
+        },
+        {
+          "team": "United States",
+          "teamZh": "美国",
+          "first": 0.289,
+          "second": 0.262,
+          "advance": 0.551,
+          "expectedPoints": 4.04
         },
         {
           "team": "Paraguay",
           "teamZh": "巴拉圭",
-          "first": 0.101,
-          "second": 0.171,
-          "advance": 0.271,
+          "first": 0.102,
+          "second": 0.183,
+          "advance": 0.286,
           "expectedPoints": 2.79
         }
       ]
@@ -7562,34 +7562,34 @@
         {
           "team": "Germany",
           "teamZh": "德国",
-          "first": 0.588,
-          "second": 0.254,
+          "first": 0.584,
+          "second": 0.258,
           "advance": 0.842,
-          "expectedPoints": 5.97
+          "expectedPoints": 5.96
         },
         {
           "team": "Ecuador",
           "teamZh": "厄瓜多尔",
-          "first": 0.218,
-          "second": 0.344,
-          "advance": 0.562,
+          "first": 0.23,
+          "second": 0.322,
+          "advance": 0.552,
           "expectedPoints": 4.9
         },
         {
           "team": "Ivory Coast",
           "teamZh": "科特迪瓦",
-          "first": 0.176,
-          "second": 0.332,
-          "advance": 0.508,
-          "expectedPoints": 4.18
+          "first": 0.169,
+          "second": 0.348,
+          "advance": 0.518,
+          "expectedPoints": 4.17
         },
         {
           "team": "Curaçao",
           "teamZh": "库拉索",
-          "first": 0.018,
-          "second": 0.069,
+          "first": 0.017,
+          "second": 0.072,
           "advance": 0.088,
-          "expectedPoints": 1.65
+          "expectedPoints": 1.67
         }
       ]
     },
@@ -7605,36 +7605,36 @@
       ],
       "teams": [
         {
-          "team": "Netherlands",
-          "teamZh": "荷兰",
-          "first": 0.489,
-          "second": 0.371,
-          "advance": 0.861,
-          "expectedPoints": 5.78
-        },
-        {
           "team": "Japan",
           "teamZh": "日本",
-          "first": 0.438,
+          "first": 0.444,
           "second": 0.418,
-          "advance": 0.856,
-          "expectedPoints": 6.16
+          "advance": 0.862,
+          "expectedPoints": 6.25
+        },
+        {
+          "team": "Netherlands",
+          "teamZh": "荷兰",
+          "first": 0.477,
+          "second": 0.372,
+          "advance": 0.848,
+          "expectedPoints": 5.72
         },
         {
           "team": "Tunisia",
           "teamZh": "突尼斯",
-          "first": 0.038,
-          "second": 0.113,
-          "advance": 0.151,
-          "expectedPoints": 2.42
+          "first": 0.041,
+          "second": 0.112,
+          "advance": 0.152,
+          "expectedPoints": 2.45
         },
         {
           "team": "Sweden",
           "teamZh": "瑞典",
-          "first": 0.034,
-          "second": 0.098,
-          "advance": 0.132,
-          "expectedPoints": 2.36
+          "first": 0.038,
+          "second": 0.099,
+          "advance": 0.137,
+          "expectedPoints": 2.32
         }
       ]
     },
@@ -7652,34 +7652,34 @@
         {
           "team": "Belgium",
           "teamZh": "比利时",
-          "first": 0.564,
-          "second": 0.257,
-          "advance": 0.821,
-          "expectedPoints": 5.73
+          "first": 0.548,
+          "second": 0.255,
+          "advance": 0.803,
+          "expectedPoints": 5.58
         },
         {
           "team": "Iran",
           "teamZh": "伊朗",
-          "first": 0.233,
-          "second": 0.331,
-          "advance": 0.564,
-          "expectedPoints": 4.66
+          "first": 0.235,
+          "second": 0.319,
+          "advance": 0.554,
+          "expectedPoints": 4.62
         },
         {
           "team": "Egypt",
           "teamZh": "埃及",
-          "first": 0.138,
-          "second": 0.278,
-          "advance": 0.416,
-          "expectedPoints": 3.46
+          "first": 0.152,
+          "second": 0.281,
+          "advance": 0.433,
+          "expectedPoints": 3.57
         },
         {
           "team": "New Zealand",
           "teamZh": "新西兰",
           "first": 0.065,
-          "second": 0.134,
-          "advance": 0.199,
-          "expectedPoints": 2.76
+          "second": 0.145,
+          "advance": 0.21,
+          "expectedPoints": 2.8
         }
       ]
     },
@@ -7697,34 +7697,34 @@
         {
           "team": "Spain",
           "teamZh": "西班牙",
-          "first": 0.86,
-          "second": 0.113,
-          "advance": 0.973,
-          "expectedPoints": 7.46
+          "first": 0.859,
+          "second": 0.119,
+          "advance": 0.978,
+          "expectedPoints": 7.57
         },
         {
           "team": "Uruguay",
           "teamZh": "乌拉圭",
-          "first": 0.105,
-          "second": 0.483,
-          "advance": 0.588,
-          "expectedPoints": 4.54
+          "first": 0.106,
+          "second": 0.485,
+          "advance": 0.591,
+          "expectedPoints": 4.58
         },
         {
           "team": "Cape Verde",
           "teamZh": "佛得角",
           "first": 0.018,
-          "second": 0.203,
-          "advance": 0.221,
-          "expectedPoints": 2.39
+          "second": 0.213,
+          "advance": 0.231,
+          "expectedPoints": 2.4
         },
         {
           "team": "Saudi Arabia",
           "teamZh": "沙特阿拉伯",
           "first": 0.017,
-          "second": 0.201,
-          "advance": 0.218,
-          "expectedPoints": 2.41
+          "second": 0.183,
+          "advance": 0.2,
+          "expectedPoints": 2.29
         }
       ]
     },
@@ -7742,34 +7742,34 @@
         {
           "team": "France",
           "teamZh": "法国",
-          "first": 0.589,
-          "second": 0.244,
-          "advance": 0.834,
-          "expectedPoints": 6.03
+          "first": 0.583,
+          "second": 0.254,
+          "advance": 0.837,
+          "expectedPoints": 6.02
         },
         {
           "team": "Norway",
           "teamZh": "挪威",
-          "first": 0.252,
-          "second": 0.423,
-          "advance": 0.674,
-          "expectedPoints": 4.94
+          "first": 0.274,
+          "second": 0.407,
+          "advance": 0.681,
+          "expectedPoints": 4.97
         },
         {
           "team": "Senegal",
           "teamZh": "塞内加尔",
-          "first": 0.132,
-          "second": 0.267,
-          "advance": 0.398,
-          "expectedPoints": 3.97
+          "first": 0.119,
+          "second": 0.259,
+          "advance": 0.378,
+          "expectedPoints": 3.91
         },
         {
           "team": "Iraq",
           "teamZh": "伊拉克",
-          "first": 0.027,
-          "second": 0.066,
-          "advance": 0.093,
-          "expectedPoints": 1.78
+          "first": 0.024,
+          "second": 0.079,
+          "advance": 0.104,
+          "expectedPoints": 1.8
         }
       ]
     },
@@ -7787,34 +7787,34 @@
         {
           "team": "Argentina",
           "teamZh": "阿根廷",
-          "first": 0.737,
-          "second": 0.193,
-          "advance": 0.93,
-          "expectedPoints": 6.73
+          "first": 0.751,
+          "second": 0.172,
+          "advance": 0.923,
+          "expectedPoints": 6.79
         },
         {
           "team": "Algeria",
           "teamZh": "阿尔及利亚",
-          "first": 0.157,
-          "second": 0.436,
-          "advance": 0.593,
-          "expectedPoints": 4.38
+          "first": 0.145,
+          "second": 0.437,
+          "advance": 0.582,
+          "expectedPoints": 4.3
         },
         {
           "team": "Austria",
           "teamZh": "奥地利",
-          "first": 0.089,
-          "second": 0.271,
-          "advance": 0.36,
-          "expectedPoints": 3.62
+          "first": 0.088,
+          "second": 0.289,
+          "advance": 0.377,
+          "expectedPoints": 3.63
         },
         {
           "team": "Jordan",
           "teamZh": "约旦",
-          "first": 0.017,
-          "second": 0.1,
-          "advance": 0.117,
-          "expectedPoints": 1.98
+          "first": 0.016,
+          "second": 0.102,
+          "advance": 0.118,
+          "expectedPoints": 2
         }
       ]
     },
@@ -7832,34 +7832,34 @@
         {
           "team": "Portugal",
           "teamZh": "葡萄牙",
-          "first": 0.562,
-          "second": 0.274,
-          "advance": 0.836,
+          "first": 0.57,
+          "second": 0.252,
+          "advance": 0.822,
           "expectedPoints": 5.79
         },
         {
           "team": "Colombia",
           "teamZh": "哥伦比亚",
-          "first": 0.246,
-          "second": 0.32,
-          "advance": 0.566,
-          "expectedPoints": 4.76
+          "first": 0.236,
+          "second": 0.334,
+          "advance": 0.57,
+          "expectedPoints": 4.74
         },
         {
           "team": "Uzbekistan",
           "teamZh": "乌兹别克斯坦",
-          "first": 0.122,
-          "second": 0.267,
-          "advance": 0.389,
-          "expectedPoints": 3.4
+          "first": 0.128,
+          "second": 0.265,
+          "advance": 0.393,
+          "expectedPoints": 3.42
         },
         {
           "team": "DR Congo",
           "teamZh": "刚果（金）",
-          "first": 0.071,
-          "second": 0.139,
-          "advance": 0.21,
-          "expectedPoints": 2.67
+          "first": 0.066,
+          "second": 0.149,
+          "advance": 0.214,
+          "expectedPoints": 2.66
         }
       ]
     },
@@ -7877,34 +7877,34 @@
         {
           "team": "England",
           "teamZh": "英格兰",
-          "first": 0.654,
-          "second": 0.251,
-          "advance": 0.904,
-          "expectedPoints": 6.55
+          "first": 0.675,
+          "second": 0.254,
+          "advance": 0.929,
+          "expectedPoints": 6.66
         },
         {
           "team": "Croatia",
           "teamZh": "克罗地亚",
-          "first": 0.292,
-          "second": 0.514,
-          "advance": 0.807,
-          "expectedPoints": 5.52
+          "first": 0.269,
+          "second": 0.533,
+          "advance": 0.802,
+          "expectedPoints": 5.42
         },
         {
           "team": "Panama",
           "teamZh": "巴拿马",
-          "first": 0.043,
-          "second": 0.186,
-          "advance": 0.229,
-          "expectedPoints": 3.17
+          "first": 0.046,
+          "second": 0.168,
+          "advance": 0.214,
+          "expectedPoints": 3.18
         },
         {
           "team": "Ghana",
           "teamZh": "加纳",
           "first": 0.011,
-          "second": 0.049,
-          "advance": 0.06,
-          "expectedPoints": 1.58
+          "second": 0.045,
+          "advance": 0.056,
+          "expectedPoints": 1.52
         }
       ]
     }
